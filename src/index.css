@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+  background-color: hsl(218, 23%, 16%);
+}
+
+:root {
+  --neon-green: hsl(150, 100%, 66%);
+}
+
+.shadowBtn:hover {
+  box-shadow: 0 2px 20px 0 var(--neon-green);
+}
