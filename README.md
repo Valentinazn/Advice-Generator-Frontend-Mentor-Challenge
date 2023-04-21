@@ -1,7 +1,10 @@
 # Frontend Mentor - Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
+
+
 ![screencapture-advice-generator-fm-vz-netlify-app-2023-04-21-14_51_53](https://user-images.githubusercontent.com/85753606/233641361-a55006b0-0c69-4967-8d13-2d7d1b4c1c1e.png)
+
+
 
 ## Welcome! 👋
 
